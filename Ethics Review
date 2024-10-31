@@ -1,0 +1,41 @@
+TITLE: Part II Project on Cybercrime Chat Thread Disentanglement
+APPLICANTS: Ke-Ming Chong, Jack Hughes, Alice Hutchings
+EMAIL: kmc64@cam.ac.uk,ah793@cam.ac.uk,joh32@cam.ac.uk
+DATES: 06/10/2023 ==> 14/06/2024
+STUDY TYPE: data research
+
+FUNDING BODY: 
+
+DESCRIPTION
+
+This is Part II research project, titled “Cybercrime Chat Thread Disentanglement”. The main objective of this project is to analyse and evaluate the ability of various supervised learning classifiers to separate different “threads” from conversations in a chat discussing cybercrime. The CrimeBB dataset will be used for training and testing the models.
+
+PRECAUTIONS
+
+1. Reporting crime and identification of vulnerable individuals
+In the unlikely event that we find evidence of a vulnerable individual at risk of coming to direct harm, such as through child sexual abuse, we will report it to the Internet Watch Foundation (IWF) or the
+police, as appropriate.
+The CrimeBB data collection process aims to exclude sites containing child sexual abuse material, and the web scraper does not collect images. Despite this, pre-cautions will be taken when following links in a post, any pasted links to images in posts are to be treated with caution, and files will not be
+downloaded.
+In the unlikely event of finding terrorist material in post discussions we will meet our legal duty to report it and act in accordance with the guidelines set out by Research Strategy Office at the University of Cambridge: https://www.research-strategy.admin.cam.ac.uk/research-policy/ research- integrity-and-ethics/handling-security-sensitive-research-material-0
+
+2. Informed consent
+CrimeBB data is collected through the use of web scrapers, and hence informed consent has not been obtained by the individuals concerned. Established ethical guidelines for online research into criminal activity recommend that informed consent may not be required for research into online communities where the data are publicly available and the research outputs focus on collective rather than
+individual behaviour (British Society of Criminology 2015). In order to further reduce the likelihood of harm to any users of these platforms as a result of the research, identifying information will not be published and care will be taken to handle any personal data collected securely and sensitively. Please see 4. and 5.
+
+3. Anonymisation
+In mitigating the risk of publicly identifying individuals involved in illegal activity, we propose rigorous anonymisation of our data in all of the outputs of our research through the following means:
+• Remove potentially identifying information from quotes or analysis
+• Remove names
+• Paraphrase quotes to limit searchability - when dealing with particularly sensitive material.
+We believe that the outputs of our work will be of public interest for the research community, and that there is little potential harm to the involved members, even though they might be involved in criminal offences, as we will not identify them. However, we will carefully consider whether any of the results from our analysis could be used to cause harm to particular groups, and we will moderate which
+results we publish accordingly.
+
+4. Data Security
+Data for analysis will be stored securely, and data analysis will be carried out on secure laptops equipped with an encrypted hard drive. Data access will be limited to the researchers and those requiring it for collaboration on research outputs.
+Data access will be granted for a limited amount of time necessary to conduct the research. Upon completing the research project, data used for analysis will be removed from the devices where analysis was carried out.
+
+5. Risk to researchers involved in the project
+Working with CrimeBB data may pose minimal psychological risks for researchers. To mitigate these risks, the researchers will minimise the amount of manual analysis done on the dataset. The
+effectiveness of toxicity classifiers will be done through looking for possible false negatives to limit exposure to toxic content. Researchers participating in this project will also meet regularly to provide an overview on progress and offer support to other members. The University of Cambridge offers counselling services, which the researchers participating in this project can turn to if required. An additional potential risk to researchers is the possibility of reprisals. We are not aware of any reprisals from forum users or operators towards those who have conducted research into such forums in the past. However, we aim to mitigate this risk: we will not set out to offend the users of the forums we
+will study, and we will report findings objectively. Thus, we expect the probability of effective reprisals towards researchers or the University to be low.

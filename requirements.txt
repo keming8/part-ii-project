@@ -1,0 +1,20 @@
+# Data Processing
+pandas
+numpy
+ast
+random
+nltk
+string
+datetime
+
+# For models
+torch
+sklearn
+transformers
+imblearn
+datasets
+tqdm
+
+# Visualisation
+matplotlib
+seaborn
